@@ -1,0 +1,12 @@
+res_*
+*.txt
+*.gz
+*.BACK
+*.ORIG
+*.7z
+*.html
+test_*
+notes
+*~
+screenshot*
+exported*
